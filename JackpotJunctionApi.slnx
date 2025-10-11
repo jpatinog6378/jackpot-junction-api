@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Core/Core.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="JackpotJunctionApi/JackpotJunctionApi.csproj" />
+  <Project Path="Test/Test.csproj" />
+</Solution>
